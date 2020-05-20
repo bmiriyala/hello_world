@@ -1,2 +1,2 @@
 # hello_world
-Hello World project for testing
+Hello World project for testing while learning.
